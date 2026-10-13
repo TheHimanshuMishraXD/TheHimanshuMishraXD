@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:himanshumishra41157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/himanshumishra41157-tech"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/TheHimanshuMishraXD"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,9 +32,9 @@
 
 | Repository | Description | Tech Stack | Code Link |
 | :--- | :--- | :--- | :--- |
-| 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini API` | [Repo 🔗](https://github.com/himanshumishra41157-tech/kisan-saathi) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/himanshumishra41157-tech/homonix) |
-| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/himanshumishra41157-tech/INFRAGuardAI) |
+| 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini API` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
+| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
+| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
 
 ---
 
@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshumishra41157-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumishra41157-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumishra41157-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHimanshuMishraXD&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshumishra41157-tech&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TheHimanshuMishraXD&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
