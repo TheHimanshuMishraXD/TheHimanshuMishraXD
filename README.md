@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker Coding GIF" width="100%" />
-</div>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="800" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
 <h3 align="center">A passionate AI & Data Science Student, and Full-Stack Developer from India</h3>
@@ -52,10 +52,4 @@
 | :--- | :--- | :--- | :--- |
 | 🧮 **Ai-based-calculator** | AI-powered glassmorphism calculator with natural language math solving. | `Python` `Flask` `Groq API` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/Ai-based-calculator) |
 | 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
-| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
-
-<br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
-</p>
+| 🏠 **hom
