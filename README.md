@@ -1,6 +1,5 @@
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="800" />
-</p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="TheHimanshuMishraXD" width="600px /> </p>
+
 
 <h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
 <h3 align="center">A passionate AI & Data Science Student, and Full-Stack Developer from India</h3>
@@ -31,7 +30,7 @@
   </a>
 </p>
 
-<h1 align="center">📊 GitHub Stats & Contributions:</h1>
+<h1 align="center">📊 GitHub Stats:</h1>
 
 <!-- Contribution Snake Animation -->
 <p align="center">
