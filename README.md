@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="TheHimanshuMishraXD" width="600px" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker Coding GIF" width="100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
 <h3 align="center">A passionate AI & Data Science Student, and Full-Stack Developer from India</h3>
@@ -29,7 +31,13 @@
   </a>
 </p>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h1 align="center">📊 GitHub Stats & Contributions:</h1>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TheHimanshuMishraXD" /> </p><br/>
 
 <p align="center"><img width=390 src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
