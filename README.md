@@ -52,4 +52,10 @@
 | :--- | :--- | :--- | :--- |
 | 🧮 **Ai-based-calculator** | AI-powered glassmorphism calculator with natural language math solving. | `Python` `Flask` `Groq API` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/Ai-based-calculator) |
 | 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
-| 🏠 **hom
+| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
+| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
+
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
+</p>
