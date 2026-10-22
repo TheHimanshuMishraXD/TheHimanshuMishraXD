@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced System Security & Custom LLMs**
 
-- 🤝 I’m looking to collaborate on **Open Source AI & Cybersecurity projects**
+- 🤝 I’m looking to collaborate on **Open Source AI & Automation projects**
 
 - 💬 Ask me about **Python, FastAPI, Streamlit, Flask, and Kali Linux**
 
