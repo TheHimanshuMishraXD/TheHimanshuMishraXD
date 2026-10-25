@@ -54,6 +54,8 @@
 | 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
 | 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
 | 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
+| 🏗️ TIMMY | AI-powered sustainable building design and land analysis assistant. | `React` `FastAPI` `Shapely` `pvlib` `Three.js` , `typescript` | [Live Demo](https://timmy-7aeb-4vd5wp6dt-mark-xli-s-projects.vercel.app) |
+
 
 <br>
 <p align="center">
