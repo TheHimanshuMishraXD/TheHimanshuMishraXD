@@ -37,18 +37,19 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /> 
-</p>
 <br/>
-
 <p align="center">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </p>
-<br/>
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHimanshuMishraXD&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" /> 
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHimanshuMishraXD&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
 <br/>
 
