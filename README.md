@@ -1,69 +1,118 @@
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="TheHimanshuMishraXD" width="600px" /> 
-</p>
 
-<h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
-<h3 align="center">A passionate AI & Data Science Student & Full-Stack Developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheHimanshuMishraXD.TheHimanshuMishraXD" />
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=TheHimanshuMishraXD&label=Profile%20views&color=0e75b6&style=flat" alt="TheHimanshuMishraXD" /> 
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Himanshu+Mishra!;AI%2FML+Engineer+in+Progress;Software+Developer+🚀" />
+</h1>
 
-- 🔭 I’m currently working on **AI-integrated Web Applications & RAG Systems**
-- 🌱 I’m currently learning **Advanced System Security & Custom LLMs**
-- 🤝 I’m looking to collaborate on **Open Source AI & Automation projects**
-- 💬 Ask me about **Python, FastAPI, Streamlit, Flask, and Kali Linux**
-- 📫 How to reach me **himanshumishra41157@gmail.com**
+<h3 align="center">
+  AI & Data Science Student | Aspiring AI/ML Engineer | Software Developer from India 🇮🇳
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/himanshumishra41157-tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/TheHimanshuMishraXD" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://instagram.com/prime.motivex" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/himanshumishra62" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,fastapi,flask,mongodb,supabase,linux,kali,git,github,vscode,vercel,netlify,render" />
+<div align="center">
+
+🔭 I'm currently working on **AI/ML Projects & Automation**
+
+🌱 I'm currently learning **Python, C++, DSA & Machine Learning**
+
+🧠 Exploring **Artificial Intelligence, Software Development & Automation**
+
+💻 Building projects to turn ideas into real-world applications
+
+🎯 My goal is to become an **AI/ML Engineer**
+
+⚡ Fun fact: I use Python to teach my computer new tricks!
+
+📫 Reach me through [GitHub Discussions](https://github.com/TheHimanshuMishraXD)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/TheHimanshuMishraXD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+  <a href="https://github.com/TheHimanshuMishraXD">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+</div>
 
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</p>
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,linux,bash,mysql" />
+
+</div>
 
 <br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHimanshuMishraXD&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
+
+<h2 align="center">🚀 My Projects</h2>
+
+<div align="center">
+
+  <a href="https://github.com/TheHimanshuMishraXD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheHimanshuMishraXD&repo=Ai-based-calculator&theme=react&border_radius=10" />
+  </a>
+
+  <br/><br/>
+
+  **🤖 AI & Machine Learning Projects**
+
+  **💻 Python & Flask Applications**
+
+  **⚙️ Automation & Software Development**
+
+</div>
+
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<div align="center">
+
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/TheHimanshuMishraXD/TheHimanshuMishraXD/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<hr/>
+
+<h2 align="center">🔥 GitHub Streak & Stats 🔥</h2>
+
 <br/>
 
-<h2 align="center">🔝 Top Contributed Repos</h2>
+<div align="center">
 
-| Repository | Description | Tech Stack | Code Link |
-| :--- | :--- | :--- | :--- |
-| 🧮 **Ai-based-calculator** | AI-powered glassmorphism calculator with natural language math solving. | `Python` `Flask` `Groq API` | [Live Demo 🔗](https://ai-based-calculator-wymb.vercel.app/) |
-| 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
-| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
-| 🏗️ **TIMMY** | AI-powered sustainable building design and land analysis assistant. | `React` `FastAPI` `Shapely` `pvlib` `Three.js` `TypeScript` | [Live Demo 🔗](https://timmy-7aeb-4vd5wp6dt-mark-xli-s-projects.vercel.app) |
+  <img width="390" src="https://streak-stats.demolab.com/?user=TheHimanshuMishraXD&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg" alt="Bye" />
-</p>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">💡 Keep Learning • Keep Building • Keep Growing 🚀</h2>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Consistency+is+the+key!;Building+something+awesome...;One+commit+at+a+time+💻" />
+
+</div>
