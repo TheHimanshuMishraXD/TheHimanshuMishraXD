@@ -1,63 +1,71 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="TheHimanshuMishraXD" width="600px /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Himanshu-Mishra.Himanshu-Mishra" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Mishra!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
-<h3 align="center">A passionate AI & Data Science Student, and Full-Stack Developer from India</h3>
+<h3 align="center">A passionate software developer from India ɪɴ</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheHimanshuMishraXD&label=Profile%20views&color=0e75b6&style=flat" alt="TheHimanshuMishraXD"> </p>
+<br/>
 
-- 🔭 I’m currently working on **AI-integrated Web Applications & RAG Systems**
+<div align="center">
+ 
+ 🔭 I’m currently working on RAG Architecture, FastAPI Backends, and Custom LLM Integrations
+ 
+ 🌱 I’m currently learning **HTML, CSS, Python**
 
-- 🌱 I’m currently learning **Advanced System Security & Custom LLMs**
+💬 Ask me about **Python, FastAPI, Streamlit, Flask, Kali Linux... or anything [here**](https://www.google.com/search?q=https://github.com/TheHimanshuMishraXD/TheHimanshuMishraXD/issues)
 
-- 🤝 I’m looking to collaborate on **Open Source AI & Automation projects**
+⚡ Beyond the Code **The green code in The Matrix digital rain is actually sushi recipes from a Japanese cookbook.**
 
-- 💬 Ask me about **Python, FastAPI, Streamlit, Flask, and Kali Linux**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:himanshumishra41157@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+<a href="https://www.linkedin.com/in/himanshu-mishra-904264380/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/TheHimanshuMishraXD" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
 
-- 📫 How to reach me **himanshumishra41157@gmail.com**
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools <3 ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,flutter,mui,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask,vercel,netlify,docker" /><br>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshumishra41157-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/TheHimanshuMishraXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://instagram.com/prime.motivex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/himanshumishra62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-</p>
+<br/>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,fastapi,flask,mongodb,supabase,linux,kali,git,github,vscode,vercel,netlify,render" />
-  </a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yateesh-reddy/yateesh-reddy/assets/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<hr/>
 
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TheHimanshuMishraXD" /> </p><br/>
-
-<p align="center"><img width=390 src="https://github-readme-stats.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/></p><br>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHimanshuMishraXD&theme=dark&hide_border=false" alt="TheHimanshuMishraXD" /> </p><br/>
-
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-| Repository | Description | Tech Stack | Code Link |
-| :--- | :--- | :--- | :--- |
-| 🧮 **Ai-based-calculator** | AI-powered glassmorphism calculator with natural language math solving. | `Python` `Flask` `Groq API` | [Live Demo 🔗](https://ai-based-calculator-wymb.vercel.app/) |
-| 🌾 **kisan-saathi** | RAG-based Agricultural AI web application. | `Python` `Streamlit` `Gemini` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/kisan-saathi) |
-| 🏠 **homonix** | Web platform for home services with role-based dashboard. | `HTML/CSS` `Supabase` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/homonix) |
-| 🛡️ **INFRAGuardAI** | AI-driven infrastructure security & monitoring project. | `Python` `Security` | [Repo 🔗](https://github.com/TheHimanshuMishraXD/INFRAGuardAI) |
-| 🏗️ TIMMY | AI-powered sustainable building design and land analysis assistant. | `React` `FastAPI` `Shapely` `pvlib` `Three.js` , `typescript` | [Live Demo](https://timmy-7aeb-4vd5wp6dt-mark-xli-s-projects.vercel.app) |
-
-
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/bye.svg">
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TheHimanshuMishraXD&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TheHimanshuMishraXD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TheHimanshuMishraXD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<br/>
