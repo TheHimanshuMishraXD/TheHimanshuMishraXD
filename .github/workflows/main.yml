@@ -1,15 +1,15 @@
 
-name: Generate Snake
+name: Update GitHub Streak
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 3 * * *"
 
   workflow_dispatch:
 
   push:
-    branches:
-      - main
+    paths:
+      - ".github/workflows/streak-stats.yml"
 
 permissions:
   contents: write
@@ -19,23 +19,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=false&border_radius=10
+          path: profile/streak.svg
 
-      - name: Push files to assets branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: assets
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update GitHub streak stats" || exit 0
+          git push
